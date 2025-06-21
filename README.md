@@ -10,5 +10,21 @@ Fitur Utama :
    - Mitra tidak bisa mengakses halaman admin dan user.
    Role-based authentication dengan proteksi rute Laravel Breeze.
 3. Home Page (Setelah Login) Tampilan awal setelah login user yang menampilkan donasi makanan dan seputar websitenya.
-4. CRUD Admin (Admin Panel) Admin dapat mengelola seluruh konten website melalui fitur CRUD berikut :
-   - 
+4. Admin (Admin Panel) Admin dapat mengelola seluruh konten website melalui fitur CRUD berikut :
+   - Dashboard Admin
+   - CRUD FAQ
+   - CRUD Berita
+   - CRUD Forum
+   - CRUD Manajemen Mitra
+6. Mitra (Mitra Panel) Mitra dapat mengelola makanan yang akan didonasikan :
+   - Dashboard Mitra
+   - CRUD Donation
+   - Review
+   - History
+
+Fitur Tambahan :
+   - Output Peta Donasi Visualisasi lokasi tempat donasi menggunakan peta interaktif.
+   - Download Bukti Klaim Donasi dalam Format PDF Pengguna dapat mengunduh Bukti Klaim Donasi secara langsung sebagai file PDF.
+   - Download Riwayat Donasi dalam Format PDF Mitra dapat mengunduh Riwayat Donasi secara langsung sebagai file PDF.
+   - Visualisasi Data Registrasi Menampilkan grafik atau diagram dari data pengguna yang telah mendaftar.
+   - Filter Riwayat Donasi seperti "Pesanan Selesai", "Belum Diambil" dan "Tidak Diambil".
